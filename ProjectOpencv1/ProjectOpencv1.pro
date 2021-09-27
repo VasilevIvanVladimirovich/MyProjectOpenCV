@@ -1,4 +1,4 @@
-QT -= gui
+wQT -= gui
 
 CONFIG += c++11 console
 CONFIG -= app_bundle
@@ -10,7 +10,8 @@ CONFIG -= app_bundle
 SOURCES += \
         Part1.cpp \
         Part2.cpp \
-        Part3.cpp
+        Part3.cpp \
+        Part4.cpp
 
 
 
@@ -24,6 +25,14 @@ LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_calib3d453.dll
 LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_videoio453.dll
 LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_video453.dll
 LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_photo453.dll
+LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_objdetect453.dll
+LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_ml453.dll
+LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_gapi453.dll
+LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_flann453.dll
+LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_features2d453.dll
+LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_dnn453.dll
+LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_stitching453.dll
+LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\opencv_videoio_ffmpeg453_64.dll
 
 
 # Default rules for deployment.
