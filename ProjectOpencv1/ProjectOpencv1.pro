@@ -8,7 +8,8 @@ CONFIG -= app_bundle
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-        main.cpp
+        Part1.cpp \
+        Part2.cpp
 
 
 
@@ -21,6 +22,8 @@ LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_imgproc453.dll
 LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_calib3d453.dll
 LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_videoio453.dll
 LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_video453.dll
+LIBS += D:\PRoG\CLib\opencv\opencv\Release\bin\libopencv_photo453.dll
+
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

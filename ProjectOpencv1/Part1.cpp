@@ -40,17 +40,17 @@ using namespace cv;
 
 ////////////////// video is webCam //////////////////
 
-int main()
-{
-    VideoCapture cap(1);
+//int main()
+//{
+//    VideoCapture cap(1);
 
-    Mat img;
+//    Mat img;
 
-    while(true)
-    {
-        cap.read(img);
+//    while(true)
+//    {
+//        cap.read(img);
 
-        imshow("img",img);
-        waitKey(1);
-    }
-}
+//        imshow("img",img);
+//        waitKey(1);
+//    }
+//}
