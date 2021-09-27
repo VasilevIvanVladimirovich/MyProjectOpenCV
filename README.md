@@ -25,3 +25,9 @@ Part3
 Масштабирование и обрезание изображения
 
 ![image](https://user-images.githubusercontent.com/65816571/134888090-f3b2a852-22f6-4774-b576-87ed3de18ea7.png)
+
+Part4
+
+Геометрические фигуры
+
+![image](https://user-images.githubusercontent.com/65816571/134940188-a0de8373-4a0e-4465-9c8f-6eb091b38b90.png)
