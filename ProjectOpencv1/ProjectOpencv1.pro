@@ -9,7 +9,8 @@ CONFIG -= app_bundle
 
 SOURCES += \
         Part1.cpp \
-        Part2.cpp
+        Part2.cpp \
+        Part3.cpp
 
 
 
