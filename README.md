@@ -31,3 +31,9 @@ Part4
 Геометрические фигуры
 
 ![image](https://user-images.githubusercontent.com/65816571/134940188-a0de8373-4a0e-4465-9c8f-6eb091b38b90.png)
+
+Part5
+
+Деформация, выпрямление карты
+
+![image](https://user-images.githubusercontent.com/65816571/134955359-f7bfccee-4b8e-43ad-8ac8-9e6c582e5b5f.png)
