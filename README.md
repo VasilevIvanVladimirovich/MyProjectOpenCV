@@ -40,7 +40,14 @@ Part5
 
 Part6
 
-Определение цвета
+Определение цвета на изображение
 
 ![image](https://user-images.githubusercontent.com/65816571/135048064-db2379b2-a66b-49ac-9026-c42dd0e3a9ab.png)
+
+Part7
+
+Определение лица
+
+![image](https://user-images.githubusercontent.com/65816571/135070831-87845912-8697-466c-8a84-5ce009bc2f30.png)
+
 
