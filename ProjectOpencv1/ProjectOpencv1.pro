@@ -12,7 +12,9 @@ SOURCES += \
         Part2.cpp \
         Part3.cpp \
         Part4.cpp \
-        Part5.cpp
+        Part5.cpp \
+        Part6.cpp \
+        Part7.cpp
 
 
 
