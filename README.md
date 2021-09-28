@@ -37,3 +37,10 @@ Part5
 Деформация, выпрямление карты
 
 ![image](https://user-images.githubusercontent.com/65816571/134955359-f7bfccee-4b8e-43ad-8ac8-9e6c582e5b5f.png)
+
+Part6
+
+Определение цвета
+
+![image](https://user-images.githubusercontent.com/65816571/135048064-db2379b2-a66b-49ac-9026-c42dd0e3a9ab.png)
+
